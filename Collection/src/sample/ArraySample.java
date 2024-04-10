@@ -1,7 +1,5 @@
 package sample;
 
-import javax.print.attribute.standard.NumberUpSupported;
-
 public class ArraySample {
 
     public static void main(String[] args) {
